@@ -1,0 +1,20 @@
+======= Flevix.com =======
+Thank you for downloading this item.
+
+
+
+
+Glossy-Preloader-Features:
+1. Easy to Use for Website
+2. Clean Design
+3. Transparent Background
+4. Resolutions: 32x32px, 48x48px, 64x64px, 96x96px, 128x128px, 150x150px, 256x256px, 512x512px
+
+
+Glossy-Preloader-Files:
+1. 8 SVG Animation Files
+2. 1 Information File
+
+
+How to Include:
+<img src="svgfilename.svg" alt="altername name">

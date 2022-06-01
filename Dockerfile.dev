@@ -1,0 +1,11 @@
+FROM node:14.18.1
+
+ENV HOME=/home/client
+WORKDIR $HOME
+
+COPY package.json ./
+RUN npm install
+
+EXPOSE 4000
+
+CMD [ "npm", "start"]
